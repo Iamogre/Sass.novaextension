@@ -1,6 +1,6 @@
 {
     "identifier": "vinecode.Sass",
-    "name": "Sass",
+    "name": "Sass [OGRE]",
     "organization": "Vine Code Limited",
     "description": "Automatically compile scss files on save.",
     "version": "1.5",
