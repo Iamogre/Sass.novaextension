@@ -18,7 +18,7 @@
             "title": "Enable compile Sass on Save",
             "description": "Enable compile on save for this project..",
             "type": "boolean",
-            "default": true
+            "default": false
         },
         {
             "key": "VineCode.Sass.cssStyle",
@@ -56,7 +56,7 @@
             "title": "Output Path",
             "type": "string",
             "description": "Manually set the output path of the generated css files, relative to the workspace directory",
-            "placeholder": "/dist/css"
+            "default": "/dist/css"
         },
         {
             "key": "VineCode.Sass.execPath",
